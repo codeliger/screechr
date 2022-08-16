@@ -41,7 +41,7 @@ Run from the main directory using `go run ./`
 #### Params
 - `token` (required)
 - `content` (required)
-## `screeches
+## screeches
 ### GET
 #### Params
 - `count`: the amount of results to show
